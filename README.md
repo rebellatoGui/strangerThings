@@ -1,7 +1,7 @@
-<h1 align="center">DevArt - Stranger Things </h1>
+<h1 align="center"> DevArt - Stranger Things 🔦</h1>
 
 <p align="center">
-Projeto DevArt do Gustavo Campelo, sobre a 5ª temporada de Stranger Things, feito para aprender sobre desenvolvimento web.
+Landing page da atração Stranger Things: The Experience, com visual cinematográfico e animações de scroll
 </p>
 
 <p align="center">
@@ -10,23 +10,24 @@ Projeto DevArt do Gustavo Campelo, sobre a 5ª temporada de Stranger Things, fei
 </p>
 
 <p align="center">
-  <img alt="Capa Stranger Things" src="imagens/preview.png" style="border-radius: 10px;">
+  <img alt="Capa DevArt - Stranger Things" src="assets/readme-preview.png" style="border-radius: 10px;">
 <br>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Figma
 - HTML e CSS
 - JavaScript
-- GSAP
+- GSAP (ScrollSmoother, ScrollTrigger e SplitText)
+- Figma
 - Git e Github
 
 ## 💻 Projeto
 
-- Landing page da atração "Stranger Things: The Experience" (Netflix x Fever), com identidade visual sombria e cinematográfica, totalmente responsiva.
-- Animações de scroll e texto feitas com GSAP (ScrollSmoother, ScrollTrigger e SplitText).
+- Landing page da atração "Stranger Things: The Experience" (Netflix x Fever), feita a partir do layout do DevArt de Gustavo Campelo sobre a 5ª temporada da série, com identidade visual sombria e cinematográfica e totalmente responsiva.
+
+- As animações de scroll e de texto foram feitas com GSAP, usando ScrollSmoother para a rolagem suave, ScrollTrigger para disparar as cenas e SplitText para animar os títulos, com fundos específicos para desktop e mobile.
 
 <h2 align="center">📌 Desenvolvedores</h2>
 
@@ -47,4 +48,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-<p align="center">Feito com ♥ por Guilherme </p>
+<p align="center">Feito com ♥ por rebellatoGui</p>
